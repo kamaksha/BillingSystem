@@ -1,0 +1,4 @@
+ 10  Soap 50 10
+ 11 Sampoo 80 5
+ 13 Salt   20 2
+ 15 Water 20 1
